@@ -64,6 +64,9 @@
 .document {
     display: flex;
     gap: 24px;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .pageContainer {
