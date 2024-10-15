@@ -45,6 +45,9 @@ npm run dev
 
 ## Screenshots
 
+![image](https://github.com/user-attachments/assets/c53a0947-d43b-4285-a1f7-89bd2f765b23)
+![image](https://github.com/user-attachments/assets/ca7a15b7-e850-4a14-b5ef-eb6fffa66727)
+
 ## Contributing
 We welcome contributions! Feel free to submit a pull request, report issues, or suggest improvements.
 
