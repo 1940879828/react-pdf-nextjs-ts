@@ -25,12 +25,12 @@ Follow these steps to set up and run the project locally:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/rotate-pdf.git
+git clone https://github.com/1940879828/react-pdf-nextjs-ts.git
 ```
 
 2. Navigate into the project directory::
 ```bash
-cd rotate-pdf
+cd react-pdf-nextjs-ts
 ```
 
 3. Install the dependencies:
