@@ -1,0 +1,35 @@
+.button {
+    padding: 10px 20px;
+    border-radius: 4px;
+    background-color: rgb(255, 97, 47);
+    color: white;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+.dark {
+    background-color: rgb(31, 41, 55);
+}
+
+.circle {
+    border-radius: 50%;
+    background-color: #fff;
+    height: 28px;
+    width: 28px;
+    overflow: hidden;
+    padding: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.2s ease;
+}
+
+.circle:hover {
+    transform: scale(1.1);
+}
+
+.disable {
+    background-color: gray;
+    filter: grayscale(100%);
+    cursor: not-allowed;
+}

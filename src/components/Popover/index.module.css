@@ -1,0 +1,25 @@
+.portal {
+    display: flex;
+    position: fixed;
+    color: inherit;
+    z-index: 100;
+    animation: fadeIn .2s ease-in;
+}
+
+.hidden {
+    display: none;
+}
+
+.overlay {
+    min-width: fit-content;
+    min-height: fit-content;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
+}
